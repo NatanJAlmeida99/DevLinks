@@ -1,0 +1,1 @@
+Projeto do curso Discover da Rocketseat para aplicar os conhecimentos em HTML CSS e JavaSript. O projeto é uma página que mostra os links úteis para um desenvolvedor.
